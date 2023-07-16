@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pydeck as pdk
-import joblib
-from joblib import load
-import pickle
 from sklearn import preprocessing
 import requests
 import snowflake.connector
